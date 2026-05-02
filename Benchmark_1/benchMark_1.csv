@@ -1,0 +1,2 @@
+Experimento,RMSE,MAE,R2,N_Features,Top_1_Feature,Top_2_Feature,Top_3_Feature,Top_4_Feature,Top_5_Feature
+Benchmark_1,221.79823986834592,181.42149939903845,0.24077914614167062,27,close_lag_1,ema_2,ema_3,close_lag_2,close_lag_3

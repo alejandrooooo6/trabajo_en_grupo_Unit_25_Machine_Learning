@@ -1,2 +1,0 @@
-Experimento,RMSE,MAE,R2,N_Features,Top_1_Feature,Top_2_Feature,Top_3_Feature,Top_4_Feature,Top_5_Feature
-Baseline,207.2314359801332,173.85133713942307,0.3372294376119698,31,ema_2,close_lag_1,ema_3,close_lag_3,sma_5
